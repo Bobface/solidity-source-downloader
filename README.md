@@ -1,6 +1,8 @@
 Solidity Source Downloader
 ===
 
+*This project is still quite new, if you run into bugs, please report them to get them fixed*.
+
 ### Quick Start
 ```
 npm install -g solidity-source-downloader
