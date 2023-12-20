@@ -16,7 +16,7 @@
         "build": "node build.js"
     },
     "bin": {
-        "sdl": "./dist/index.js"
+        "sdl": "dist/index.js"
     },
     "license": "MIT",
     "devDependencies": {
