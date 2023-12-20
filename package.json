@@ -1,0 +1,31 @@
+{
+    "name": "solidity-source-downloader",
+    "author": "Bobface",
+    "description": "A tool to download solidity source code from Etherscan-like APIs",
+    "keywords": [
+        "solidity",
+        "source",
+        "downloader",
+        "blockchain",
+        "ethereum",
+        "etherscan"
+    ],
+    "version": "1.0.0",
+    "main": "./dist/index.js",
+    "scripts": {
+        "build": "node build.js"
+    },
+    "bin": {
+        "sdl": "./dist/index.js"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "@types/node": "^20.10.5",
+        "prettier": "^3.1.1",
+        "ts-node": "^10.9.2"
+    },
+    "dependencies": {
+        "typescript": "^5.3.3",
+        "commander": "^11.1.0"
+    }
+}
