@@ -1,3 +1,5 @@
+**ARCHIVED**: After the publication of this tool, Foundry's [`cast etherscan-source`](https://book.getfoundry.sh/reference/cast/cast-etherscan-source) has been released, which should be used instead. 
+
 Solidity Source Downloader
 ===
 
